@@ -1,0 +1,44 @@
+body{
+	background-color:#d5fde8;
+}
+form{
+	text-align:center;
+	width:700px;
+	margin-left:300px;
+}
+.legend{
+	font-size:30px;
+	font-family:arial;
+	font-weight:bold;
+	margin-bottom:15px;
+}
+input[type=text]{
+	width:200px;
+	height:20px;
+	border:1px solid red;
+	border-radius:10px;
+	font-weight:bold;
+	padding:5px;	
+}
+label{
+	color:red;
+	font-size:20px;
+	font-family:arial;
+	font-weight:bold;
+}
+input[type=submit]{
+	width: 100px;
+    height: 40px;
+    color: red;
+    padding: 10px;
+    border-radius: 5px;
+	font-weight:bold;
+}
+input[type=reset]{
+	width: 100px;
+    height: 40px;
+    color: red;
+    padding: 5px;
+    border-radius: 5px;
+	font-weight:bold;
+}
